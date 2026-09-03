@@ -24,9 +24,9 @@ Ce document est rédigé en .[MarkDown](https://fr.wikipedia.org/wiki/Markdown).
 
 ## Une liste :
 
-﻿﻿- Toto ;
-﻿﻿- Titi ;
-﻿﻿- Tata...
+- Toto ;
+-  Titi ;
+- Tata...
   
 ## Un avertissement :
 ﻿﻿> Libre à vous de personaliser cette page à l'aide de la documentation
