@@ -1,34 +1,18 @@
-# Mon_classeur_PG1
-Un dépôt afin de gérer mes cours
-## Voici un titre de niveau 2
-### Et voici un titre de niveau 3/
-Ceci est un paragraphe.
-Cette ligne s'affiche dans le même paragraphe à la suite de la première phrase sans retour à la ligne.
-Cette ligne s'affiche dans le même paragraphe avec un retour à la ligne 
-car on a laissé deux caractères espaces après le point de la phrase précédente.
+# Bienvenu sur mon Classeur de S.I 
 
-Cette ligne s'affiche dans un nouveau paragraphe
-car on a laissé deux sauts de ligne après le point de la phrase précédente.
+A titre informatif, j'ai créé ce classeur dans le cadre d'une année de première en classe de spécialité Science de l'Ingénieur. 
+Ainsi, vous y trouverez des mes travaux comme : 
 
-On peut obtenir du _texte_ avec *simple emphase* rendu en *italique*, 
-  du texte_ avec **forte emphase** rendu en **Gras**,
-   du **_Texte_** à la fois en **gras** et en *italique*,
-     du "code source" rendu en caractères "monospaces, 
-       du texte barrém rendu avec une ligne en travers du texte.
-       
-## Un lien :
-Ce document est rédigé en .[MarkDown](https://fr.wikipedia.org/wiki/Markdown).
+- Des activités de programmation
+- Des projets de groupe 
+- Des activités découverte en lien avec la S.I 
 
-## Une image :
-![illustration GitHubDocs](https://ericecmorlaix.github.io/img/GitHub00c.png)
+### Projet important réalisé en classe de SNT en seconde : 
 
-## Une liste :
+- https://lemenn-gabriel.github.io/CapVers-LeCiel/
 
-- Toto ;
--  Titi ;
-- Tata...
-  
-## Un avertissement :
-﻿﻿> Libre à vous de personaliser cette page à l'aide de la documentation
-> du [MarkDown à la sauce GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-
- formatting-on-github/basic-writing-and-
+- https://lemenn-gabriel.github.io/Jeu_IA/
+
+
+
+##### Ce README sera développé au fur et à mesure de l'année 
